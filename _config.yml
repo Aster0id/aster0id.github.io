@@ -2,12 +2,18 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://aster0id.github.com
+#网站地址
+url: http://aster0id.github.io
+#网站标题 
 title: Aster0id的个人博客
-#subtitle: A blogging framework for hackers.
+#网站副标题 
+subtitle: 每天进步一点点.
+#网址作者，通常显示在页尾和每篇文章的尾部
 author: Aster0id
-#simple_search: https://www.baidu.com
-description:
+#搜索引擎
+#simple_search: http://google.com/search
+#网站的描述，出现在HTML页面中的 meta 中的 description
+#description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -65,8 +71,8 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 
 
 # duoshuo comments（多说评论）
-duoshuo_comments: true
-duoshuo_short_name: Aster0id
+# duoshuo_comments: true
+# duoshuo_short_name: Aster0id
 
 # Github repositories
 github_user:
