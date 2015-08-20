@@ -63,6 +63,11 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 #   3rd Party Settings    #
 # ----------------------- #
 
+
+# duoshuo comments（多说评论）
+duoshuo_comments: true
+duoshuo_short_name: Aster0id
+
 # Github repositories
 github_user:
 github_repo_count: 0
