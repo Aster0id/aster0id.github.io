@@ -13,7 +13,9 @@ author: Aster0id
 #搜索引擎
 #simple_search: http://google.com/search
 #网站的描述，出现在HTML页面中的 meta 中的 description
-#description:
+description: Aster0id的个人博客.
+#关键字
+keywords: iOS开发, ObjC, Swift, Octopress, 天津, 北京, Otcopress
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -65,6 +67,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # post_asides:
 # page_asides:
 
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
@@ -102,8 +105,8 @@ github_skip_forks: true
 #delicious_count: 3
 
 # Disqus Comments
-#disqus_short_name:
-#disqus_show_comment_count: false
+disqus_short_name: Aster0id
+disqus_show_comment_count: true
 
 # Google Analytics
 #google_analytics_tracking_id:
